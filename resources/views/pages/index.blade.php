@@ -32,7 +32,7 @@
                     <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
                     <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
                     <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link" href="#team">Team</a></li> -->
                     <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                 </ul>
             </div>
@@ -253,7 +253,7 @@
         </div>
     </section>
     <!-- Team-->
-    <section class="page-section bg-light" id="team">
+    <!-- <section class="page-section bg-light" id="team">
         <div class="container">
             <div class="text-center">
                 <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
@@ -297,7 +297,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Clients-->
     <div class="py-5">
         <div class="container">
